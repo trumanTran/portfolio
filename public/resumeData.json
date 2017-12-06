@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Trung Tran",
+    "occupation":"student, programmer and aspiring web developer",
+    "description":"I'm learning to design and create websites and web applications of all types",
+    "image":"profile.png",
+    "bio":"Hello! I'm Trung ... but I go by Truman among my friends. Originally from Los Angeles, I moved to New York for a change in scenary and a masters in psychology at NYU. However, after some dabbling with code and a bit of soul searching, I decided to switch gears and pursue a career in software development. As of now, I'm attending Hunter College for my degree in computer science. Outside of school and work, I love learning new technologies as well as dancing like a fool.",
+    "email": "trung.truman.tran@gmail.com",
+    "phone": "626-379-5737",
+    "address":{
+      "city":"New York",
+      "state":"NY",
+      "zip": "10016"
+    },
+    "website": "https://trungnt6669.github.io/",
+    "resumedownload":"http://attachments.angel.co/1494659-1b7e4cb424cefc8cc0020a94b9bdfbd1.pdf?1512377513",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/truman.tran.37",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/trung-truman-tran/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/trungnt6669",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Hunter College",
+        "degree":"Master in Graphic Design",
+        "graduated":"December 2017",
+        "description":""
+      },
+      {
+        "school":"New York University",
+        "degree":"Masters of Arts, General Psychology ",
+        "graduated":"May 2013",
+        "description":""
+      },
+      {
+        "school":"University of California, Irvine",
+        "degree":"Bachelor of Arts, Cognitive Science",
+        "graduated":"June 2011",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Taskrabbit",
+        "title":"Elite Tasker",
+        "years":"May 2016 - August 2017",
+        "description":"As a tasker, I provided on-demand service to anyone that needs help with handyman work. This involves building furniture, moving and mounting. I completed over 140 tasks and maintained a 100% positive rating during my time working."
+      },
+      {
+        "company":"Marmol Radziner",
+        "title":"Assistant System Admin",
+        "years":"May 2011 - July 2014",
+        "description":"Troubleshooting computer hardware, software and network related issues, I assist the CTO with help desk services. In addition to this, I helped upgrade the firm's entire computer system, replacing all old workstations with new ones and ensuring proper integration."
+      }
+    ],
+    "project":[
+      {
+        "type":"Blockchain Polling Station",
+        "link":"https://github.com/trungnt6669/blockchain-voting",
+        "description":"While society strives to move forward technologically, cybersecurity is a huge concern, especially when it comes to using electronic machines for voting. Along with four other classmates, we are looking to address this issue with the implementation of blockchains for record keeping. Using a rasperry pi as a node and a physical polling station, we wanted to create something that would be affordable, portable and secure."
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"55%"
+      },
+      {
+        "name":"HTML5",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"65%"
+      },
+      {
+        "name":"Python",
+        "level":"55%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Sleepy",
+        "image":"sleep.jpg",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"One",
+        "image":"one.jpg",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Bboy",
+        "image":"bboy.jpg",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Look",
+        "image":"look.jpg",
+        "modal":"#modal-04"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Trung was efficient and very skilled. He fixed all of my computer needs, as promised. I would definitely use him again!",
+        "user":"David L."
+      },
+      {
+        "text":"Trung was punctual, professional, and friendly. He also figured out a way to complete our task faster than we ourselves would have. Will hire again.",
+        "user":"Eric O."
+      },
+      {
+        "text":"Trung is very professional and courteous even our dog thought he was cool.",
+        "user":"Charles G."
+      }
+    ]
+  }
+}
