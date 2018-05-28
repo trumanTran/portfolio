@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Trung Tran",
-    "occupation":"student, programmer and aspiring web developer",
+    "occupation":"programmer and aspiring web developer",
     "description":"I'm learning to design and create websites and web applications of all types",
     "image":"profile.png",
-    "bio":"Hello! I'm Trung ... but I go by Truman among my friends. Originally from Los Angeles, I moved to New York for a change in scenary and a masters in psychology at NYU. However, after some dabbling with code and a bit of soul searching, I decided to switch gears and pursue a career in software development. As of now, I'm attending Hunter College for my degree in computer science. Outside of school and work, I love learning new technologies as well as dancing like a fool.",
+    "bio":"Hello! I'm Trung ... but I go by Truman among my friends. Originally from Los Angeles, I moved to New York for a change in scenary and a masters in psychology at NYU. However, after some dabbling with code and a bit of soul searching, I decided to switch gears and pursue a career in software development. As of now, I'm working as a web developer at Dearest. Outside of work, I love learning new technologies as well as dancing like a fool.",
     "email": "trung.truman.tran@gmail.com",
     "phone": "626-379-5737",
     "address":{
@@ -12,8 +12,8 @@
       "state":"NY",
       "zip": "10016"
     },
-    "website": "https://trungnt6669.github.io/",
-    "resumedownload":"http://attachments.angel.co/1494659-1b7e4cb424cefc8cc0020a94b9bdfbd1.pdf?1512377513",
+    "website": "http://truman.surge.sh/",
+    "resumedownload":"https://drive.google.com/open?id=1Qfcrx7z7_V8AmACMe9HkW7R0RtFzLypR",
     "social":[
       {
         "name":"facebook",
@@ -36,7 +36,7 @@
     "education":[
       {
         "school":"Hunter College",
-        "degree":"Master in Graphic Design",
+        "degree":"Bachelor of Arts, Computer Science",
         "graduated":"December 2017",
         "description":""
       },
@@ -55,12 +55,6 @@
     ],
     "work":[
       {
-        "company":"Taskrabbit",
-        "title":"Elite Tasker",
-        "years":"May 2016 - August 2017",
-        "description":"As a tasker, I provided on-demand service to anyone that needs help with handyman work. This involves building furniture, moving and mounting. I completed over 140 tasks and maintained a 100% positive rating during my time working."
-      },
-      {
         "company":"Marmol Radziner",
         "title":"Assistant System Admin",
         "years":"May 2011 - July 2014",
@@ -77,11 +71,11 @@
     "skills":[
       {
         "name":"JavaScript",
-        "level":"55%"
+        "level":"85%"
       },
       {
         "name":"HTML5",
-        "level":"65%"
+        "level":"80%"
       },
       {
         "name":"CSS",
