@@ -63,9 +63,9 @@ class Resume extends Component {
             <div key="Dearest.io" className="row item dearest">
               <div className="twelve columns">
                 <h3><a className="work-link" href="https://www.dearest.io/" target="_blank">Dearest.io</a></h3>
-                <p className="info">Full Stack Web Developer <span>&bull;</span> <em className="date">January 2018 - Present</em></p>
+                <p className="info">Lead Full Stack Web Developer <span>&bull;</span> <em className="date">January 2018 - Present</em></p>
                 <p>
-                  As an online platform that connects families with personalized early childcare and classes, Dearest helps parents find the most suitable educators for their child. I work closely with the founder to design and develop features that would help attract new users while retaining old ones. Alongside the senior developer, I'm also working to clean the codebase to optimize the site's perfomance. My other responsibilities include keeping the front end public and admin site up to date while maintaining the backend server code.     
+                  An online platform that connects families with personalized early childcare and classes, Dearest helps parents find the most suitable educators for their child. As the technical lead, I work closely with the founder to provide solutions and improve features of the site. My main responsibilities include keeping the front end public and admin site up to date while maintaining the backend server code and database. I also manage and mentor interns, as well as collarborate with an offshore development team to oversee and review projects.        
                 </p>
               </div>
             </div>
