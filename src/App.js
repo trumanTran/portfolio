@@ -13,16 +13,16 @@ class App extends Component {
     super(props);
     this.state = {
       resumeData: {}
-    }
+    };
   }
 
   getResumeData() {
     $.ajax({
-      url:'../resumeData.json',
+      url: '../resumeData.json',
       dataType: 'json',
       cahce: false,
       success: function(data) {
-        this.setState({resumeData: data});
+        this.setState({ resumeData: data });
       }.bind(this),
       error: function(xhr, status, err) {
         console.log(err);
@@ -36,7 +36,6 @@ class App extends Component {
   }
 
   render() {
-    console.log(this.state.resumeData);
     return (
       <div className="App">
         <Header data={this.state.resumeData.main} />
