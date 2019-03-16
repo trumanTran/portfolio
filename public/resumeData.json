@@ -1,133 +1,133 @@
 {
   "main": {
-    "name":"Trung Tran",
-    "occupation":"programmer and aspiring web developer",
-    "description":"I'm learning to design and create websites and web applications of all types",
-    "image":"profile.png",
-    "bio":"Hello! I'm Trung ... but I go by Truman among my friends. Originally from Los Angeles, I moved to New York for a change in scenary and a masters in psychology at NYU. However, after some dabbling with code and a bit of soul searching, I decided to switch gears and pursue a career in software development. As of now, I'm working as a web developer at Dearest. Outside of work, I love learning new technologies as well as dancing like a fool.",
+    "name": "Trung Tran",
+    "occupation": "full stack web developer",
+    "description": "constantly seeking to further improve myself.",
+    "image": "profile.png",
+    "bio": "Hello! I'm Trung ... but I go by Truman among my friends. Originally from Los Angeles, I moved to New York for a change in scenary and a masters in psychology at NYU. However, after some dabbling with code and a bit of soul searching, I decided to switch gears and pursue a career in software development. As of now, I'm working as a web developer at Dearest. Outside of work, I love learning new technologies as well as dancing like a fool.",
     "email": "trung.truman.tran@gmail.com",
     "phone": "626-379-5737",
-    "address":{
-      "city":"New York",
-      "state":"NY",
+    "address": {
+      "city": "New York",
+      "state": "NY",
       "zip": "10016"
     },
     "website": "http://truman.surge.sh/",
-    "resumedownload":"https://drive.google.com/file/d/1jMuGo3yQ14NaFZSL67vVlbgJjXv1PDwg/view?usp=sharing",
-    "social":[
+    "resumedownload": "https://drive.google.com/file/d/1Lrvre_GQgqX0XTXA5ZvyhYy_ZEfucEQG/view?usp=sharing",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/truman.tran.37",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/truman.tran.37",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/trung-truman-tran/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/trung-truman-tran/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/trungnt6669",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/trungnt6669",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "education":[
+  "resume": {
+    "education": [
       {
-        "school":"Hunter College",
-        "degree":"Bachelor of Arts, Computer Science",
-        "graduated":"December 2017",
-        "description":""
+        "school": "Hunter College",
+        "degree": "Bachelor of Arts, Computer Science",
+        "graduated": "December 2017",
+        "description": ""
       },
       {
-        "school":"New York University",
-        "degree":"Masters of Arts, General Psychology ",
-        "graduated":"May 2013",
-        "description":""
+        "school": "New York University",
+        "degree": "Masters of Arts, General Psychology ",
+        "graduated": "May 2013",
+        "description": ""
       },
       {
-        "school":"University of California, Irvine",
-        "degree":"Bachelor of Arts, Cognitive Science",
-        "graduated":"June 2011",
-        "description":""
+        "school": "University of California, Irvine",
+        "degree": "Bachelor of Arts, Cognitive Science",
+        "graduated": "June 2011",
+        "description": ""
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Marmol Radziner",
-        "title":"Assistant System Admin",
-        "years":"May 2011 - July 2014",
-        "description":"Troubleshooting computer hardware, software and network related issues, I assist the CTO with help desk services. In addition to this, I helped upgrade the firm's entire computer system, replacing all old workstations with new ones and ensuring proper integration."
+        "company": "Marmol Radziner",
+        "title": "Assistant System Admin",
+        "years": "May 2011 - July 2014",
+        "description": "Troubleshooting computer hardware, software and network related issues, I assist the CTO with help desk services. In addition to this, I helped upgrade the firm's entire computer system, replacing all old workstations with new ones and ensuring proper integration."
       }
     ],
-    "project":[
+    "project": [
       {
-        "type":"Blockchain Polling Station",
-        "link":"https://github.com/trungnt6669/blockchain-voting",
-        "description":"While society strives to move forward technologically, cybersecurity is a huge concern, especially when it comes to using electronic machines for voting. Along with four other classmates, we are looking to address this issue with the implementation of blockchains for record keeping. Using a rasperry pi as a node and a physical polling station, we wanted to create something that would be affordable, portable and secure."
+        "type": "Blockchain Polling Station",
+        "link": "https://github.com/trungnt6669/blockchain-voting",
+        "description": "While society strives to move forward technologically, cybersecurity is a huge concern, especially when it comes to using electronic machines for voting. Along with four other classmates, we are looking to address this issue with the implementation of blockchains for record keeping. Using a rasperry pi as a node and a physical polling station, we wanted to create something that would be affordable, portable and secure."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"JavaScript",
-        "level":"85%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
+        "name": "CSS",
+        "level": "80%"
       },
       {
-        "name":"C++",
-        "level":"65%"
+        "name": "C++",
+        "level": "65%"
       },
       {
-        "name":"Python",
-        "level":"55%"
+        "name": "Python",
+        "level": "55%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Sleepy",
-        "image":"sleep.jpg",
-        "modal":"#modal-01"
+        "title": "Sleepy",
+        "image": "sleep.jpg",
+        "modal": "#modal-01"
       },
       {
-        "title":"One",
-        "image":"one.jpg",
-        "modal":"#modal-02"
+        "title": "One",
+        "image": "one.jpg",
+        "modal": "#modal-02"
       },
       {
-        "title":"Bboy",
-        "image":"bboy.jpg",
-        "modal":"#modal-03"
+        "title": "Bboy",
+        "image": "bboy.jpg",
+        "modal": "#modal-03"
       },
       {
-        "title":"Look",
-        "image":"look.jpg",
-        "modal":"#modal-04"
+        "title": "Look",
+        "image": "look.jpg",
+        "modal": "#modal-04"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Trung was efficient and very skilled. He fixed all of my computer needs, as promised. I would definitely use him again!",
-        "user":"David L."
+        "text": "Trung was efficient and very skilled. He fixed all of my computer needs, as promised. I would definitely use him again!",
+        "user": "David L."
       },
       {
-        "text":"Trung was punctual, professional, and friendly. He also figured out a way to complete our task faster than we ourselves would have. Will hire again.",
-        "user":"Eric O."
+        "text": "Trung was punctual, professional, and friendly. He also figured out a way to complete our task faster than we ourselves would have. Will hire again.",
+        "user": "Eric O."
       },
       {
-        "text":"Trung is very professional and courteous even our dog thought he was cool.",
-        "user":"Charles G."
+        "text": "Trung is very professional and courteous even our dog thought he was cool.",
+        "user": "Charles G."
       }
     ]
   }
